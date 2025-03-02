@@ -1,0 +1,44 @@
+{
+    "mydata": {
+        "Title": "Dev Patel",
+        "SubTitle": "Student, Computer Programmer",
+        "Moto": "Debugging my way to Application"
+    },
+    "listSocial": [
+        {
+            "platform": "Instagram",
+            "link": "https://www.instagram.com/dv_patel555/"
+        },
+        {
+            "platform": "FaceBook",
+            "link": "https://www.facebook.com/profile.php?id=100077692834067"
+        },
+        {
+            "platform": "LinkedIn",
+            "link": "https://www.linkedin.com/in/dev-patel-20440b2a9/"
+        }
+    ],
+    "aboutInfo": {
+        "value": "Hi, I'm Dev Patel, a computer programming student at Sheridan College pursuing a Diploma in Computer Programmer, I'm eager to merge my technical skills with real-world experience. My portfolio includes a range of projects, such as the Champions League Winners analysis, SIP Calculator, AI Prompt Generator, Casino Craps Game, and Chinese Year Generator, I'm excited to continue learning, growing, and exploring new opportunities in the ever-evolving world of tech."
+    },
+    "listTechUsed": [
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "CSS"
+        },
+        {
+            "name": "TYPESCRIPT"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "Node JS"
+        },
+        {
+            "name": "Angular"
+        }
+    ]
+}
