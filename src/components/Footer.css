@@ -1,0 +1,27 @@
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #333;
+  color: white;
+  font-size: 16px;
+}
+
+footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+footer ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+footer h3 {
+  margin-top: 15px;
+}
+
+.dark-theme footer {
+  background-color: #222;
+  color: #f1f1f1;
+}

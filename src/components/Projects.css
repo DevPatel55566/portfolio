@@ -1,0 +1,50 @@
+.project-card {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  padding: 15px;
+  text-align: center;
+  max-width: 400px;
+  margin: auto;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.project-title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #333;
+}
+
+.project-subtitle {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.project-image {
+  width: 100%;
+  max-height: 250px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.liked-card {
+  background-color: #ffe6e6;
+  border: 2px solid crimson;
+  transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+  .project-card {
+    max-width: 100%;
+  }
+}

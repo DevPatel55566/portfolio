@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./Header.css"
 const Header = ({ personal, listSocial, darkMode }) => {
   return (
     <header className={`${darkMode ? "dark-theme" : "light-theme"} header p-4`}>

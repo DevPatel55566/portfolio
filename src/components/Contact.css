@@ -1,0 +1,29 @@
+.contact {
+  padding: 20px;
+  text-align: center;
+}
+
+.contact nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+.contact nav ul li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.contact nav ul li a {
+  color: #007bff;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.contact nav ul li a:hover {
+  text-decoration: underline;
+}
+
+h2 {
+  margin-top: 15px;
+  font-size: 20px;
+}

@@ -5,7 +5,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import content from "./assets/content.json";
 import projects from "./assets/projects.json";
-
+import "./App.css"
 const App = () => {
   const [darkMode, setDarkMode] = useState(false);
 

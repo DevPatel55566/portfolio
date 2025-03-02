@@ -1,5 +1,5 @@
 import React from "react";
-
+import"./Contact.css"
 const Contact = ({ personal, listSocial, darkMode }) => {
   return (
     <div className={darkMode ? "dark-mode" : ""}>
